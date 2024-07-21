@@ -1,8 +1,9 @@
 # This dummy file is crated from GitHub Web ui 
 
-- a
-- b
-- c
+- A
+- B
+- C
+- D
 - Хочу питсы
 
 1. first
