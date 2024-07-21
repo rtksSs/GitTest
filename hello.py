@@ -1,8 +1,8 @@
 class ToiletPaper:
-    def __init__(self):
-        print('Я в говне');
+    def __init__(self, msg):
+        print('Я в говне {}'.format(msg))
 
 
-a = ToiletPaper()
+a = ToiletPaper('полнстью')
 
 print('Hello {}!'.format('world'))
